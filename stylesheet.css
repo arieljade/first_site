@@ -1,0 +1,56 @@
+<link href='https://fonts.googleapis.com/css?family=Londrina+Shadow' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Cinzel+Decorative' rel='stylesheet' type='text/css'>
+
+
+h1{
+	color: red;
+}
+
+/*body{
+	background-image: url("images/splatter.jpg");
+	background-size: 100%;
+	background-color: #0a0f0d;
+	background-repeat: none;
+	text-align: center;
+}*/
+
+html { 
+  background: url("images/splatter.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+}
+
+h1{
+	font-family:'Cinzel Decorative', cursive;
+	color: 	#bf8c40;
+	font-size: 100px;
+}
+h2{
+	font-family: Arial;
+	color: 	rgb(41, 33, 44);
+}
+a{
+	text-decoration: none;
+	text-align: center;
+}
+h3{
+	font-family: Arial;
+	color: 	rgb(41, 33, 44);
+	font-size: 50px;
+}
+
+div img{
+	height: 300px;
+	width: auto;
+	border: 5px solid rgb(41, 33, 44);
+	text-align: center;
+}
+.gallery{
+	font-family: Verdana;
+
+}
+
+
